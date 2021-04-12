@@ -15,7 +15,7 @@ The full talk of WEB is available at https://www.youtube.com/watch?v=wnUKIATuuQE
 
 # Repository owners
 
-Thsi repository is owned and maintained by [Bonaventure Dossou](https://twitter.com/bonadossou) and [Chris Emezue](https://twitter.com/bonadossou). You can read about our common and personal research at [Bonaventure Dossou - Semantic Scholar](https://www.semanticscholar.org/author/Bonaventure-F.-P.-Dossou/1591111757) and [Chris Emezue](https://www.semanticscholar.org/author/Chris-C.-Emezue/1591176064)
+Thsi repository is owned and maintained by [Bonaventure Dossou](https://twitter.com/bonadossou) and [Chris Emezue](https://twitter.com/bonadossou). You can read about our common and personal research at [Bonaventure Dossou - Semantic Scholar](https://www.semanticscholar.org/author/Bonaventure-F.-P.-Dossou/1591111757) and [Chris Emezue - Semantic Scholar](https://www.semanticscholar.org/author/Chris-C.-Emezue/1591176064)
 
 # Donations
 
